@@ -33,4 +33,4 @@ Contains a complete website with progressive CSS styling from basic to advanced 
 
 ## License
 
-This project is open source and available under the MIT License. 
+This project is open source and available under the MIT License.
